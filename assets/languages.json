@@ -1,0 +1,30 @@
+[
+  {
+    "lang": "TypeScript",
+    "percent": 42.87
+  },
+  {
+    "lang": "Python",
+    "percent": 33.01
+  },
+  {
+    "lang": "HTML",
+    "percent": 8.1
+  },
+  {
+    "lang": "JavaScript",
+    "percent": 8.06
+  },
+  {
+    "lang": "Vue",
+    "percent": 3.63
+  },
+  {
+    "lang": "CSS",
+    "percent": 1.22
+  },
+  {
+    "lang": "Прочее",
+    "percent": 3.11
+  }
+]
