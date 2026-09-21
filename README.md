@@ -115,7 +115,10 @@
 ## `// статистика`
 
 <p align="center">
-  <img alt="Статистика GitHub" height="170" src="https://github-readme-stats.vercel.app/api?username=NameLucky2205&show_icons=true&count_private=true&include_all_commits=true&locale=ru&bg_color=0a0a0c&title_color=fcee0a&icon_color=00f0ff&text_color=d4d4dc&border_color=00f0ff&border_radius=6">
+  <img alt="Контрибуции за год" width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NameLucky2205&theme=2077">
+</p>
+
+<p align="center">
   <img alt="Серия контрибуций" height="170" src="https://streak-stats.demolab.com?user=NameLucky2205&locale=ru&background=0a0a0c&border=00f0ff&ring=fcee0a&fire=ff003c&currStreakNum=fcee0a&currStreakLabel=00f0ff&sideNums=d4d4dc&sideLabels=d4d4dc&dates=6f6f7c&border_radius=6">
 </p>
 
